@@ -34,6 +34,13 @@ nav {
   line-height: 1.5;
 }
 
+a {
+  color: #d62828;
+}
+
+a:hover {
+  background-color: #f77f00;
+}
 /* The div container constrains the content width within the main container to 600px */
 div {
   margin: auto;
