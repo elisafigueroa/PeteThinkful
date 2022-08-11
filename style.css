@@ -16,6 +16,7 @@ h3 {
   text-align: center;
 }
 
+/* Aligning header to center */
 header{
   text-align: center
 }
@@ -34,6 +35,7 @@ nav {
   line-height: 1.5;
 }
 
+/* Adding color to links */
 a {
   color: #d62828;
 }
@@ -57,7 +59,7 @@ hr {
   border: 1px solid black;
 }
 
-/* Add your solution below */
+/* Image border */
 
 .image-circle {
   border: 2px solid #003049;
